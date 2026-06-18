@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────
+#  RAG Model Requirements — Mistral AI + ChromaDB
+#  Supports: PDF, DOCX, TXT, CSV, HTML, Web Pages
+#  Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# ── Core LangChain ──────────────────────────
+langchain==1.2.17
+langchain-core==1.3.2
+langchain-community==0.4.1
+
+# ── Mistral AI (Chat + Embeddings) ──────────
+langchain-mistralai==1.1.3
+
+# ── Vector Database — ChromaDB ───────────────
+# Stores embeddings locally with persistence
+chromadb==1.5.8
+langchain-chroma==1.1.0
+
+# ── Document Loaders ─────────────────────────
+
+# PDF files → PyPDFLoader
+pypdf==6.10.2
+
+# DOCX files → Docx2txtLoader
+docx2txt==0.9
+
+# CSV, TXT, JSON → Built into langchain-community
+# (no extra install needed)
+
+# HTML + Web pages → BSHTMLLoader / WebBaseLoader
+beautifulsoup4==4.14.3
+requests==2.33.1
+
+# All unstructured formats (fallback loader)
+# Handles: PDF, DOCX, PPTX, XLSX, images, emails
+unstructured==0.22.26
+
+# ── Text Splitter ─────────────────────────────
+# Token-based splitting for accurate chunking
+tiktoken==0.12.0
+
+# ── Pydantic (data validation) ───────────────
+pydantic==2.13.3
+
+# ── Environment Variables ────────────────────
+python-dotenv==1.2.2
+
+# ── Streamlit (UI) ───────────────────────────
+streamlit==1.57.0
