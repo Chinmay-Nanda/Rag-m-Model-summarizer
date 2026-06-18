@@ -1,0 +1,188 @@
+Machine Learning:
+Machine Learning is a subset of artificial intelligence that enables systems to learn patterns from data and make predictions without being explicitly programmed.
+
+Supervised Learning:
+Supervised learning uses labeled data to train models. Common tasks include classification and regression.
+
+Unsupervised Learning:
+Unsupervised learning finds hidden patterns in unlabeled data. Examples include clustering and dimensionality reduction.
+
+Reinforcement Learning:
+Reinforcement learning is a type of learning where an agent interacts with an environment and learns through rewards and penalties.
+
+---
+
+Data Preprocessing:
+Data preprocessing involves cleaning, transforming, and organizing raw data into a usable format for machine learning models.
+
+Feature Engineering:
+Feature engineering is the process of selecting and transforming variables to improve model performance.
+
+Normalization:
+Normalization scales data to a specific range, usually between 0 and 1.
+
+Standardization:
+Standardization transforms data to have a mean of 0 and standard deviation of 1.
+
+---
+
+Overfitting:
+Overfitting occurs when a model performs well on training data but poorly on unseen data.
+
+Underfitting:
+Underfitting occurs when a model is too simple to capture the underlying patterns in the data.
+
+Bias-Variance Tradeoff:
+This tradeoff explains the balance between a model's complexity and its generalization ability.
+
+---
+
+Evaluation Metrics:
+Common metrics include accuracy, precision, recall, and F1-score.
+
+Confusion Matrix:
+A confusion matrix is used to evaluate classification models by comparing predicted and actual values.
+
+Cross Validation:
+Cross validation is a technique used to assess how a model performs on unseen data.
+
+---
+
+Deep Learning:
+Deep learning is a subset of machine learning that uses neural networks with multiple layers.
+
+Neural Networks:
+Neural networks are models inspired by the human brain that consist of interconnected nodes.
+
+Activation Function:
+An activation function determines whether a neuron should be activated or not.
+
+---
+
+Natural Language Processing (NLP):
+NLP enables machines to understand, interpret, and generate human language.
+
+Tokenization:
+Tokenization splits text into smaller units such as words or sentences.
+
+Embeddings:
+Embeddings are numerical vector representations of text used for similarity search.
+
+---
+
+RAG (Retrieval-Augmented Generation):
+RAG combines document retrieval with text generation to improve response accuracy.
+
+Vector Database:
+A vector database stores embeddings for efficient similarity search.
+
+Semantic Search:
+Semantic search retrieves results based on meaning rather than exact keyword matching.
+
+---
+
+MLOps:
+MLOps is the practice of managing the machine learning lifecycle, including deployment, monitoring, and retraining.
+
+CI/CD:
+Continuous Integration and Continuous Deployment automate testing and deployment processes.
+
+Pipeline:
+A pipeline consists of steps like data collection, preprocessing, training, and deployment.
+
+---
+
+Cloud Computing:
+Cloud computing provides on-demand computing resources over the internet.
+
+API:
+An API allows communication between different software applications.
+
+Microservices:
+Microservices architecture divides applications into small, independent services.
+
+---
+
+Database:
+A database is an organized collection of structured data.
+
+SQL:
+SQL is used to manage and query relational databases.
+
+NoSQL:
+NoSQL databases are used for unstructured or semi-structured data.
+
+---
+
+Data Structures:
+Data structures organize and store data efficiently.
+
+Arrays:
+Arrays store elements in contiguous memory locations.
+
+Linked List:
+A linked list consists of nodes connected through pointers.
+
+Stack:
+A stack follows Last In First Out (LIFO) principle.
+
+Queue:
+A queue follows First In First Out (FIFO) principle.
+
+---
+
+Algorithms:
+Algorithms are step-by-step procedures to solve problems.
+
+Time Complexity:
+Time complexity measures how the runtime of an algorithm grows with input size.
+
+Space Complexity:
+Space complexity measures the memory usage of an algorithm.
+
+Binary Search:
+Binary search efficiently finds elements in a sorted array.
+
+---
+
+Operating System:
+An operating system manages computer hardware and software resources.
+
+Process:
+A process is a program in execution.
+
+Thread:
+A thread is the smallest unit of execution.
+
+Memory Management:
+Memory management handles allocation and deallocation of memory.
+
+---
+
+Computer Networks:
+Computer networks enable communication between devices.
+
+TCP/IP:
+TCP/IP is the fundamental communication protocol of the internet.
+
+HTTP:
+HTTP is used for transferring web pages.
+
+DNS:
+DNS translates domain names into IP addresses.
+
+---
+
+Cyber Security:
+Cyber security protects systems and data from digital attacks.
+
+Encryption:
+Encryption converts data into a secure format.
+
+Authentication:
+Authentication verifies user identity.
+
+Firewall:
+A firewall monitors and controls network traffic.
+
+---
